@@ -5,4 +5,6 @@ The python program focuses on fetching the end-user's facial expression by using
 UI is totally focused on getting end-user's attention into the project.
 UI tells the user to how to use the application and keeps the functionality of the application smooth, easy and simple.
 This project is made after studing different research papers and by adding uniqueness into this project.
-Uniqueness of this project are: Huge dataset, More facial expressions, Optimization : Adam, Early stopping, Adding checkpoints.
+Uniqueness of this project are: Huge dataset, More facial expressions, Optimization : Adam, Early stopping, Adding checkpoints, Using 50 epochs for validation, Image augmention, etc.
+
+Architecture planning to use: ResNet50
